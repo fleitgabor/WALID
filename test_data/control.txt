@@ -1,0 +1,14 @@
+A 1 1.0    // [float] raster resolution [m] (in case of Q 1 1)
+A 2 50.0   // [float] average distance between cross sections [m]
+
+I 1 1.5     // [float] power of inverse distance weighting
+I 2 8       // [int] number of neightbours used for outliers
+I 3 1.8     // [float] longitudinal window size (A2 x I3)  
+I 4 5.0     // [float] transversal size of interpolation window [m]
+
+P 1 1       // [0/1] print ASCII (.xyz) output
+P 2 1       // [0/1] print paraview grid output (only raster-based)
+P 3 1       // [0/1] print paraview point output
+P 4 1       // [0/1] print measured data to (.vtu)
+
+Q 1 1       // [0/1] 0:grid / 1:query points
