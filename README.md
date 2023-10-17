@@ -9,7 +9,7 @@ The /test_data folder contains inputs for testing.
 - The **thaleg.xy** file contains the breakpoints of the river thalweg in a consecutive order [_x_, _y_].
 - In case the interpolated DEM is required in a specific set of query poitns [_x_, _y_], the **query.xy** file should also be added to the directory where the script is executed.
 
-The outputs code provides outputs in standard text file format or in ParaView file format.
+The code provides outputs in standard text file and/or in ParaView file format.
 
 **Reference:** Fleit. G (under review) Windowed Anisotropic Local Inverse Distance weighted (WALID) interpolation method for riverbed mapping. Environmental Modelling & Software.
 
