@@ -1,5 +1,5 @@
 # WALID
-**W**indowed **A**nisotropic **L**ocal **I**nverse **D**istance weighted (WALID) interpolation tool for riverbed mapping.
+**W**indowed **A**nisotropic **L**ocal **I**nverse **D**istance weighted (WALID) interpolation tool for riverbed mapping
 
 This is a Python-based tool to generate river digital elevation models (DEM) from cross-sectional data.
 The /test_data folder contains inputs for testing.
