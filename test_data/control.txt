@@ -1,4 +1,4 @@
-A 1 1.0    // [float] raster resolution [m] (in case of Q 1 1)
+A 1 1.0    // [float] raster resolution [m] (in case of Q 1 0)
 A 2 50.0   // [float] average distance between cross sections [m]
 
 I 1 1.5     // [float] power of inverse distance weighting
