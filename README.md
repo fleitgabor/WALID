@@ -6,7 +6,7 @@ The /test_data folder contains inputs for testing.
 
 - The **control.txt** file contains the user defined parameters of the interpolation algorithm in a _punched card_ fashion.
 - A simple delimited text file (***.xyz**) contains the measured bathymetric data with a coordinate order [_x_, _y_, _z_].
-- The **thaleg.xy** file contains the breakpoints of the river thalweg in a consecutive order [_x_, _y_].
+- The **thalweg.xy** file contains the breakpoints of the river thalweg in a consecutive order [_x_, _y_].
 - In case the interpolated DEM is required in a specific set of query poitns [_x_, _y_], the **query.xy** file should also be added to the directory where the script is executed.
 
 The code provides outputs in standard text file and/or in ParaView file format.
